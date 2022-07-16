@@ -13,5 +13,3 @@
 ⚔️ PvP-Based Towny
 
 ⚔️ And more ...
-
-#### Only, in Java Edition
