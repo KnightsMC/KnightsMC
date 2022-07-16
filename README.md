@@ -1,1 +1,1 @@
-# KnightsMC
+# Comming soon | knights.holyg.gg
